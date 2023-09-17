@@ -1,0 +1,38 @@
+.rcb {
+  background-color: #a4261d;
+}
+.kxp {
+  background-color: #d91c1f;
+}
+.csk {
+  background-color: #f7db00;
+}
+.mi {
+  background-color: #13418b;
+}
+.srh {
+  background-color: #f26d22;
+}
+.dd {
+  background-color: #4f5db0;
+}
+.rr {
+  background-color: #da237b;
+}
+.kkr {
+  background-color: #5755a7;
+}
+.team-match-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.responsive-container {
+  width: 50vw;
+}
+.team-banner {
+  width: 100%;
+  height: 370px;
+  margin: 50px;
+}
