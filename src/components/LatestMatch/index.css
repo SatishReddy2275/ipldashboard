@@ -1,1 +1,55 @@
 /* Write your CSS here */
+.latest-match-container {
+  display: flex;
+  align-items: center;
+  background-color: #1e293b;
+  width: 100%;
+  padding: 40px 60px;
+  font-family: Bree Serif;
+}
+
+.first-row {
+  margin-right: 0px;
+  padding-right: 0px;
+}
+
+.head-1 {
+  color: white;
+  font-size: 35px;
+  width: 90%;
+}
+
+.head-2 {
+  color: white;
+  font-size: 24px;
+}
+
+.para-details {
+  color: white;
+  font-size: 20px;
+  width: 70%;
+}
+.competing-img {
+  height: 200px;
+  width: 180px;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+.third-row {
+  margin-left: 150px;
+}
+.match-value {
+  color: white;
+  font-size: 17px;
+  padding-top: 0px;
+  margin-top: 0px;
+  text-align: right;
+}
+.match-label {
+  color: white;
+  font-size: 24px;
+  padding-top: 0px;
+  margin-top: 0px;
+  text-align: right;
+}

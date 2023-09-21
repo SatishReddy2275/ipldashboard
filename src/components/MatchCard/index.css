@@ -1,1 +1,46 @@
-/* Write your CSS here */
+.match-card {
+  background-color: #1e293b;
+  height: 400px;
+  width: 300px;
+  margin-bottom: 30px;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 30px;
+  padding: 30px;
+  font-family: Bree Serif;
+  border-radius: 20px;
+}
+.match-card-logo {
+  width: 120px;
+  height: 130px;
+}
+
+.match-card-name {
+  font-size: 25px;
+  color: white;
+  margin-top: 0px;
+  padding-top: 0px;
+  text-align: center;
+}
+.match-card-result {
+  font-family: 20px;
+  margin-top: 0px;
+  padding-top: 0px;
+  color: white;
+  text-align: center;
+}
+.match-status {
+  font-size: 30px;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+.Lost {
+  color: red;
+}
+.Won {
+  color: greenyellow;
+}
